@@ -1,1 +1,1 @@
-# splashh
+# splash
